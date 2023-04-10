@@ -12,3 +12,5 @@ https://yandex.ru/yaintern/algorithm-training
 Тесты без расширения
 
 Ответы к тестам с расширением .a
+
+![Certificate](certificate.png)
